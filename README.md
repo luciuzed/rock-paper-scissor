@@ -2,4 +2,4 @@
 
 Made for PC only
 
-https://edluciuz.github.io/rock-paper-scissor/
+https://luciuzed.github.io/rock-paper-scissor/
